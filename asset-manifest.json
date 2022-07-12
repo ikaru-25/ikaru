@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ikaru-25/static/css/main.18c68726.css",
-    "main.js": "/ikaru-25/static/js/main.c2ba01e6.js",
+    "main.js": "/ikaru-25/static/js/main.76f7dba4.js",
     "static/js/787.45011269.chunk.js": "/ikaru-25/static/js/787.45011269.chunk.js",
     "index.html": "/ikaru-25/index.html",
     "main.18c68726.css.map": "/ikaru-25/static/css/main.18c68726.css.map",
-    "main.c2ba01e6.js.map": "/ikaru-25/static/js/main.c2ba01e6.js.map",
+    "main.76f7dba4.js.map": "/ikaru-25/static/js/main.76f7dba4.js.map",
     "787.45011269.chunk.js.map": "/ikaru-25/static/js/787.45011269.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18c68726.css",
-    "static/js/main.c2ba01e6.js"
+    "static/js/main.76f7dba4.js"
   ]
 }
