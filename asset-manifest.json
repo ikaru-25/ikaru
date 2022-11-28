@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/ikaru-25/static/css/main.18c68726.css",
-    "main.js": "/ikaru-25/static/js/main.34f9e245.js",
-    "static/js/787.45011269.chunk.js": "/ikaru-25/static/js/787.45011269.chunk.js",
-    "index.html": "/ikaru-25/index.html",
-    "main.18c68726.css.map": "/ikaru-25/static/css/main.18c68726.css.map",
-    "main.34f9e245.js.map": "/ikaru-25/static/js/main.34f9e245.js.map",
-    "787.45011269.chunk.js.map": "/ikaru-25/static/js/787.45011269.chunk.js.map"
+    "main.css": "/sd-score/static/css/main.18c68726.css",
+    "main.js": "/sd-score/static/js/main.34f9e245.js",
+    "static/js/787.45011269.chunk.js": "/sd-score/static/js/787.45011269.chunk.js",
+    "index.html": "/sd-score/index.html",
+    "main.18c68726.css.map": "/sd-score/static/css/main.18c68726.css.map",
+    "main.34f9e245.js.map": "/sd-score/static/js/main.34f9e245.js.map",
+    "787.45011269.chunk.js.map": "/sd-score/static/js/787.45011269.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18c68726.css",
